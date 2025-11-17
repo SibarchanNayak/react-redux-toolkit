@@ -34,10 +34,4 @@ cd <project-folder>
 npm install
 
 
-▶️ Run the Application
-
-npm run dev    # For Vite
-# or
-npm start      # For CRA
-
 
